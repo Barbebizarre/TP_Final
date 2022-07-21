@@ -1,0 +1,39 @@
+HEADER
+{
+	Background-color: blue;
+}
+
+HEADER H1
+{
+	color: red;
+}
+
+
+body 
+{
+	height : 90%;
+}
+
+
+.square{
+    width: 100px;
+    height: 100px;
+    padding: 1%;
+    align: center;
+    display: inline-block;
+    position: relative;
+    background-color:red;
+    margin-left:18%;
+    margin-top:100px;
+    margin-bottom:100px
+}
+
+.section-loaded{
+    display: inline-block;
+    float: left;    
+}
+
+footer 
+{
+	Background-color: orange;
+}
